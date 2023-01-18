@@ -1,5 +1,0 @@
----< CHANGELOG PROJECT: QUIZZIE >---
-
-v1.0: 
-
-- Git werkt
